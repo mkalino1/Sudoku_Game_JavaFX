@@ -1,7 +1,6 @@
 # Sudoku_Game_JavaFX
 Gra Sudoku napisana w Java/JavaFX według wzorca MVC
 
-Użytkownik może wybrać generowanie nowej planszy, zresetowanie planszy, zmiana ustawień kolorów oraz podpowiedzi.
 Gracz rozwiązując planszę może poruszać się po jej polach za pomocą strzałek klawiatury.
 Scena została zbudowana przy pomocy SceneBuilder. Kod zawiera znaczniki w komentarzach do generowania dokumentacji Javadoc.
 
